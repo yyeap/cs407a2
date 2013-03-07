@@ -1,0 +1,27 @@
+------------------------------------------------------------
+Client connecting to iperf.wiscnet.net, TCP port 5001
+TCP window size: 23.2 KByte (default)
+------------------------------------------------------------
+[  3] local 128.105.112.16 port 35551 connected with 205.213.14.56 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.5 sec  47.9 MBytes   803 Mbits/sec
+[  3]  0.5- 1.0 sec  45.8 MBytes   768 Mbits/sec
+[  3]  1.0- 1.5 sec  39.8 MBytes   667 Mbits/sec
+[  3]  1.5- 2.0 sec  43.8 MBytes   734 Mbits/sec
+[  3]  2.0- 2.5 sec  47.6 MBytes   799 Mbits/sec
+[  3]  2.5- 3.0 sec  33.6 MBytes   564 Mbits/sec
+[  3]  3.0- 3.5 sec  37.1 MBytes   623 Mbits/sec
+[  3]  3.5- 4.0 sec  46.1 MBytes   774 Mbits/sec
+[  3]  4.0- 4.5 sec  52.0 MBytes   872 Mbits/sec
+[  3]  4.5- 5.0 sec  55.9 MBytes   937 Mbits/sec
+[  3]  5.0- 5.5 sec  54.8 MBytes   919 Mbits/sec
+[  3]  5.5- 6.0 sec  48.4 MBytes   812 Mbits/sec
+[  3]  6.0- 6.5 sec  52.6 MBytes   883 Mbits/sec
+[  3]  6.5- 7.0 sec  46.1 MBytes   774 Mbits/sec
+[  3]  7.0- 7.5 sec  45.4 MBytes   761 Mbits/sec
+[  3]  7.5- 8.0 sec  51.5 MBytes   864 Mbits/sec
+[  3]  8.0- 8.5 sec  51.9 MBytes   870 Mbits/sec
+[  3]  8.5- 9.0 sec  53.0 MBytes   889 Mbits/sec
+[  3]  9.0- 9.5 sec  54.1 MBytes   908 Mbits/sec
+[  3]  9.5-10.0 sec  56.1 MBytes   942 Mbits/sec
+[  3]  0.0-10.0 sec   964 MBytes   808 Mbits/sec
