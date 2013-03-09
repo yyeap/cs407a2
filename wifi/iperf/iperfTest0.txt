@@ -1,0 +1,20 @@
+bin/iperf.exe -c iperf.wiscnet.net -P 1 -i 1 -p 5001 -f k -t 10
+------------------------------------------------------------
+Client connecting to iperf.wiscnet.net, TCP port 5001
+TCP window size: 8.00 KByte (default)
+------------------------------------------------------------
+[352] local 128.105.24.243 port 55741 connected with 205.213.14.56 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[352]  0.0- 1.0 sec  1896 KBytes  15532 Kbits/sec
+[352]  1.0- 2.0 sec  1800 KBytes  14746 Kbits/sec
+[352]  2.0- 3.0 sec  1704 KBytes  13959 Kbits/sec
+[352]  3.0- 4.0 sec  1256 KBytes  10289 Kbits/sec
+[352]  4.0- 5.0 sec  1696 KBytes  13894 Kbits/sec
+[352]  5.0- 6.0 sec  1656 KBytes  13566 Kbits/sec
+[352]  6.0- 7.0 sec  1784 KBytes  14615 Kbits/sec
+[352]  7.0- 8.0 sec  1840 KBytes  15073 Kbits/sec
+[352]  8.0- 9.0 sec  1640 KBytes  13435 Kbits/sec
+[352]  9.0-10.0 sec  1880 KBytes  15401 Kbits/sec
+[352]  0.0-10.0 sec  17160 KBytes  14014 Kbits/sec
+Done.
+
